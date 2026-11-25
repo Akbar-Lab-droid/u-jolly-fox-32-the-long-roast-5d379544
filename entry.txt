@@ -1,0 +1,1 @@
+My agent reads the requirements, optimizes for the metric, and still submits with the confidence of a toaster that just discovered free will.
